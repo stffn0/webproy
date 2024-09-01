@@ -1,0 +1,10 @@
+header {
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+.ed-menu a:hover {
+	background: #778899;
+	color: #FFF;
+	transition: all 0.5s ease;
+}
